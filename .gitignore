@@ -1,5 +1,5 @@
 # ignored data
-/data/
+data
 
 # removed env file
 .env
